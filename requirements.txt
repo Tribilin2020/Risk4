@@ -1,0 +1,7 @@
+
+You only need the following libraries to run this script: 
+yfinance
+pandas
+
+You can install them with the following command (copy it without the quotes):
+# "pip install yfinance pandas"
