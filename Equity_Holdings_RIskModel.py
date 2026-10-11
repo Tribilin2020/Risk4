@@ -14,6 +14,7 @@ import yfinance as yf
 #   MARKET_MOVE       move you want to simulate for that ticker, in %, e.g. -30
 #   WINDOW            7 or 30 -> number of trading days used to calculate the betas
 # ******************************************************************************
+# INPUT DATA HERE:
 
 PORTFOLIO_VALUE = 100_000
 
@@ -28,7 +29,7 @@ MARKET_TICKER = "NVDA"
 MARKET_MOVE = -30
 
 WINDOW = 30
-
+# ******************************************************************************
 
 logging.getLogger("yfinance").setLevel(logging.CRITICAL)
 
