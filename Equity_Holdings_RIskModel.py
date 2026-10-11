@@ -5,7 +5,7 @@ import pandas as pd
 import yfinance as yf
 
 # ******************************************************************************
-#   INPUT YOUR DATA HERE
+#   DATA INSTRUCTIONS
 #
 #   PORTFOLIO_VALUE   total value of your portfolio
 #   PORTFOLIO         your stocks as "TICKER": percentage of the portfolio
